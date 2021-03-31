@@ -42,9 +42,9 @@
 
         <ul class="navbar">
             <li><a href="#header">home</a></li>
-            <li><a href="#services">home</a></li>
-            <li><a href="#rooms">home</a></li>
-            <li><a href="#customer">home</a></li>
+            <li><a href="#services">services</a></li>
+            <li><a href="#rooms">rooms</a></li>
+            <li><a href="#customer">customers</a></li>
         </ul>
 
         <button class="btn sign-up">sign up</button>
@@ -59,7 +59,7 @@
          </div>
          <div class="service-container"></div>
 
-    <!-- signle service -->
+    <!-- single service -->
     <article class="service">
         <div class="service-icon">
             <span>
@@ -78,7 +78,7 @@
     </article>
 
     <!-- End of single service -->
-    <!-- signle service -->
+    <!-- single service -->
     <article class="service">
         <div class="service-icon">
             <span>
@@ -97,7 +97,7 @@
     </article>
 
     <!-- End of single service -->
-    <!-- signle service -->
+    <!-- single service -->
     <article class="service">
         <div class="service-icon">
             <span>
@@ -116,7 +116,7 @@
     </article>
 
     <!-- End of single service -->
-    <!-- signle service -->
+    <!-- single service -->
     <article class="service">
         <div class="service-icon">
             <span>
@@ -201,7 +201,7 @@
                     facilis natus id perferendis at minima deserunt aperiam.
                 </p>
                 <p class="rate">
-                    <span>$99.0</span> per night
+                    <span>$99.0</span> / per night
                 </p>
                 <button type="button" class="btn">book Now</button>
             </div>
@@ -240,10 +240,11 @@
                 facilis natus id perferendis at minima deserunt aperiam.
             </p>
             <p class="rate">
-                <span>$99.0</span> per night
+                <span>$99.0</span> / per night
             </p>
             <button type="button" class="btn">book Now</button>
         </div>
+      </article>
 
           <!-- single-rooms -->
           <article class="room">
@@ -276,14 +277,13 @@
                     facilis natus id perferendis at minima deserunt aperiam.
                 </p>
                 <p class="rate">
-                    <span>$99.0</span> per night
+                    <span>$99.0</span> / per night
                 </p>
                 <button type="button" class="btn">book Now</button>
             </div>
         </article>
 
         <!-- End of single room -->
-    </article>
 
 </section>
 
