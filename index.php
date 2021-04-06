@@ -34,7 +34,7 @@
 
      <!-- End of Header -->
 
-     <!-- Side nabar -->
+     <!-- Side navbar -->
      <div class="sidenav" id="sidenav">
         <span class="cancel-btn" id="cancel-btn">
             <i class="fas fa-times"></i>
@@ -51,6 +51,10 @@
         <button class="btn log-in">log in</button>
      </div>
      <!-- End of side navbar -->
+
+     <!-- fullscreen modal -->
+     <div class="" id="modal"></div>
+     <!-- end of fullscreen modal -->
 
      <!-- body content -->
      <section class="services sec-width" id="services">
@@ -377,50 +381,50 @@
                 </li>
             </ul>
         </div>
-    </div>
 
-    <div>
-        <h2>Useful Links</h2>
-        <a href="#">Blog</a>
-        <a href="#">Rooms</a>
-        <a href="#">Subscription</a>
-        <a href="#">Gift Card</a>
-    </div>
-
-    <div>
-        <h2>Privacy</h2>
-        <a href="#">Career</a>
-        <a href="#">About Us</a>
-        <a href="#">Contact Us</a>
-        <a href="#">Services</a>
-    </div>
-
-    <div>
-        <h2>Have A Question</h2>
-        <div class="contact-item">
-            <span>
-                <i class="fas fa-map-marker-alt"></i>
-            </span>
-            <span>
-                Tokoin - Protestant,
-                Lomé - TOGO.
-            </span>
+        <div>
+            <h2>Useful Links</h2>
+            <a href="#">Blog</a>
+            <a href="#">Rooms</a>
+            <a href="#">Subscription</a>
+            <a href="#">Gift Card</a>
         </div>
-        <div class="contact-item">
-            <span>
-                <i class="fas fa-phone-alt"></i>
-            </span>
-            <span>
-                +228 91554874
-            </span>
+
+        <div>
+            <h2>Privacy</h2>
+            <a href="#">Career</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact Us</a>
+            <a href="#">Services</a>
         </div>
-        <div class="contact-item">
-            <span>
-                <i class="fas fa-envelope"></i>
-            </span>
-            <span>
-                carlogbossou.developpeur@gmail.com
-            </span>
+
+        <div>
+            <h2>Have A Question</h2>
+            <div class="contact-item">
+                <span>
+                    <i class="fas fa-map-marker-alt"></i>
+                </span>
+                <span>
+                    Tokoin - Protestant,
+                    Lomé - TOGO.
+                </span>
+            </div>
+            <div class="contact-item">
+                <span>
+                    <i class="fas fa-phone-alt"></i>
+                </span>
+                <span>
+                    +228 91554874
+                </span>
+            </div>
+            <div class="contact-item">
+                <span>
+                    <i class="fas fa-envelope"></i>
+                </span>
+                <span>
+                    carlogbossou.developpeur@gmail.com
+                </span>
+            </div>
         </div>
     </div>
 </footer>
